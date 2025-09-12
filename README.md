@@ -6,4 +6,5 @@
   <li>Upload it to your WordPress website and activate the plugin.</li>
   <li>To display it on the frontend of your website use the shortcode <b>[depop_fee_calculator]</b></li>
 </ul>
-<h5>NOTE:</h5> <p>This premium tool is totally free to use, customly developed by <a href="https://isohaibkhan.github.io/" target="_blank">Sohaib S. Khan</a></p>
+<h5>NOTE:</h5>
+<p>This premium tool is totally free to use, fully custom developed from scratch by <a href="https://isohaibkhan.github.io/" target="_blank">Sohaib S. Khan</a></p>
